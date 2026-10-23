@@ -3,7 +3,7 @@ name: Build, Test and Publish Used Car Price API
 
 on:
   push:
-    branches: ["main"]
+    branches: ["main", "practical-11-logging"]
   workflow_dispatch:
 
 permissions:
